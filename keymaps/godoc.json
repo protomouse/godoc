@@ -1,8 +1,5 @@
  {
    "atom-text-editor": {
      "alt-d": "godoc:showdoc"
-   },
-   "atom-text-editor.godoc-display-active": {
-     "escape": "godoc:hide"
    }
  }
